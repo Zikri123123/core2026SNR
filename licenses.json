@@ -118,3 +118,23 @@
     }
   ]
 }
+{
+  "licenses": [
+    {
+      "account": 7018991,
+      "owner": "Contoh - tukar nombor akaun sebenar",
+      "active": true,
+      "expires": "2026-08-31"
+    }
+  ]
+}
+{
+  "licenses": [
+    {
+      "account": 50024812,
+      "owner": "Contoh - tukar nombor akaun sebenar",
+      "active": true,
+      "expires": "2027-01-01"
+    }
+  ]
+}
