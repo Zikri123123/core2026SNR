@@ -189,4 +189,14 @@
     }
   ]
 }
+{
+  "licenses": [
+    {
+      "account": 50023307,
+      "owner": "Contoh - tukar nombor akaun sebenar",
+      "active": true,
+      "expires": "2027-08-30"
+    }
+  ]
+}
 
