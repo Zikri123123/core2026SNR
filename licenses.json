@@ -199,4 +199,14 @@
     }
   ]
 }
+{
+  "licenses": [
+    {
+      "account": 250098,
+      "owner": "Contoh - tukar nombor akaun sebenar",
+      "active": true,
+      "expires": "2026-09-05"
+    }
+  ]
+}
 
