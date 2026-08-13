@@ -51,10 +51,10 @@
 {
 "licenses": [
     {
-      "account": 7018592,
+      "account": 7,
       "owner": "Contoh - tukar nombor akaun sebenar",
       "active": true,
-      "expires": "2026-08-15"
+      "expires": "2027-01-01"
     }
   ]
 }
@@ -81,10 +81,10 @@
 {
 "licenses": [
     {
-      "account": 7018607,
+      "account": 7,
       "owner": "Contoh - tukar nombor akaun sebenar",
       "active": true,
-      "expires": "2026-08-08"
+      "expires": "2027-01-01"
     }
   ]
 }
