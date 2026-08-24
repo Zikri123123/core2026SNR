@@ -309,5 +309,15 @@
     }
   ]
 }
+{
+  "licenses": [
+    {
+      "account": 931012264, 
+      "owner": "Contoh - tukar nombor akaun sebenar",
+      "active": true,
+      "expires": "2026-12-30"
+    }
+  ]
+}
 
 
